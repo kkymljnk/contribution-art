@@ -6,3 +6,4 @@
 2025-11-11 18:38:44 +0700 | refactor: extract abstract storage interface
 2025-11-12 08:45:12 +0700 | chore: clean up obsolete feature flags
 2025-11-12 10:08:38 +0700 | style: format codebase with standard linter
+2025-11-12 10:44:59 +0700 | refactor: extract abstract storage interface
