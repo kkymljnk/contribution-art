@@ -32,3 +32,4 @@
 2025-11-18 21:43:38 +0700 | test: add concurrency stress tests
 2025-11-18 22:00:45 +0700 | test: increase branch coverage for auth module
 2025-11-19 10:18:09 +0700 | fix: handle graceful shutdown signal
+2025-11-19 15:55:46 +0700 | fix: resolve memory leak in connection pool
