@@ -31,3 +31,4 @@
 2025-11-17 20:42:20 +0700 | chore: clean up obsolete feature flags
 2025-11-18 21:43:38 +0700 | test: add concurrency stress tests
 2025-11-18 22:00:45 +0700 | test: increase branch coverage for auth module
+2025-11-19 10:18:09 +0700 | fix: handle graceful shutdown signal
