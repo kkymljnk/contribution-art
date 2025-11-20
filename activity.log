@@ -37,3 +37,4 @@
 2025-11-19 19:42:27 +0700 | chore: upgrade runtime dependencies
 2025-11-19 20:25:20 +0700 | fix: address edge case in token validation
 2025-11-20 10:18:31 +0700 | refactor: extract abstract storage interface
+2025-11-20 12:47:53 +0700 | docs: document benchmark metrics
