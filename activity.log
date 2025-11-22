@@ -50,3 +50,4 @@
 2025-11-22 12:14:08 +0700 | chore: clean up obsolete feature flags
 2025-11-22 12:56:02 +0700 | chore: upgrade runtime dependencies
 2025-11-22 14:34:16 +0700 | feat: add distributed tracing middleware
+2025-11-22 18:46:40 +0700 | feat: integrate health check endpoint
