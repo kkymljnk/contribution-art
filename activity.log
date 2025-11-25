@@ -56,3 +56,4 @@
 2025-11-24 13:32:51 +0700 | test: add concurrency stress tests
 2025-11-25 08:58:09 +0700 | test: add concurrency stress tests
 2025-11-25 10:30:04 +0700 | feat: implement asynchronous event bus
+2025-11-25 11:40:35 +0700 | refactor: extract abstract storage interface
