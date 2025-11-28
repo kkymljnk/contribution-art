@@ -64,3 +64,4 @@
 2025-11-26 11:40:19 +0700 | test: add concurrency stress tests
 2025-11-26 13:19:51 +0700 | test: increase branch coverage for auth module
 2025-11-27 18:04:37 +0700 | perf: optimize zero-copy ring buffer
+2025-11-28 09:39:25 +0700 | refactor: extract abstract storage interface
