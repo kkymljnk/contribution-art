@@ -74,3 +74,4 @@
 2025-11-29 17:40:19 +0700 | feat: implement asynchronous event bus
 2025-11-29 19:41:51 +0700 | fix: resolve memory leak in connection pool
 2025-11-30 15:48:40 +0700 | perf: optimize zero-copy ring buffer
+2025-11-30 16:15:36 +0700 | feat: add rate limiting leaky bucket
