@@ -89,3 +89,4 @@
 2025-12-02 16:19:53 +0700 | chore: upgrade runtime dependencies
 2025-12-02 16:45:34 +0700 | test: increase branch coverage for auth module
 2025-12-02 17:42:11 +0700 | fix: address edge case in token validation
+2025-12-02 19:31:17 +0700 | feat: add distributed tracing middleware
