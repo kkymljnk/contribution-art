@@ -90,3 +90,4 @@
 2025-12-02 16:45:34 +0700 | test: increase branch coverage for auth module
 2025-12-02 17:42:11 +0700 | fix: address edge case in token validation
 2025-12-02 19:31:17 +0700 | feat: add distributed tracing middleware
+2025-12-03 14:40:12 +0700 | style: format codebase with standard linter
