@@ -128,3 +128,4 @@
 2025-12-10 20:47:15 +0700 | feat: integrate health check endpoint
 2025-12-10 21:07:27 +0700 | refactor: extract abstract storage interface
 2025-12-11 08:36:40 +0700 | chore: clean up obsolete feature flags
+2025-12-11 11:06:28 +0700 | style: format codebase with standard linter
