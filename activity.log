@@ -134,3 +134,4 @@
 2025-12-12 10:10:13 +0700 | style: format codebase with standard linter
 2025-12-12 11:04:57 +0700 | test: increase branch coverage for auth module
 2025-12-12 18:09:25 +0700 | fix: address edge case in token validation
+2025-12-12 20:01:35 +0700 | feat: integrate health check endpoint
