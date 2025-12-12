@@ -136,3 +136,4 @@
 2025-12-12 18:09:25 +0700 | fix: address edge case in token validation
 2025-12-12 20:01:35 +0700 | feat: integrate health check endpoint
 2025-12-12 21:59:20 +0700 | docs: update architecture design record
+2025-12-12 22:04:57 +0700 | refactor: extract abstract storage interface
