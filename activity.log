@@ -158,3 +158,4 @@
 2025-12-20 12:30:51 +0700 | style: format codebase with standard linter
 2025-12-21 08:38:23 +0700 | test: add concurrency stress tests
 2025-12-21 09:29:50 +0700 | fix: handle graceful shutdown signal
+2025-12-21 12:13:17 +0700 | perf: cache compiled regex patterns
