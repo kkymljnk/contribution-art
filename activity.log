@@ -179,3 +179,4 @@
 2025-12-25 10:35:48 +0700 | style: format codebase with standard linter
 2025-12-26 08:52:46 +0700 | refactor: modularize telemetry exporter
 2025-12-26 11:37:43 +0700 | test: increase branch coverage for auth module
+2025-12-26 14:24:44 +0700 | perf: optimize zero-copy ring buffer
