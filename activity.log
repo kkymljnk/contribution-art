@@ -177,3 +177,4 @@
 2025-12-24 18:56:18 +0700 | test: increase branch coverage for auth module
 2025-12-24 18:58:52 +0700 | perf: cache compiled regex patterns
 2025-12-25 10:35:48 +0700 | style: format codebase with standard linter
+2025-12-26 08:52:46 +0700 | refactor: modularize telemetry exporter
