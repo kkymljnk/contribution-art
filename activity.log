@@ -186,3 +186,4 @@
 2025-12-26 21:03:14 +0700 | style: format codebase with standard linter
 2025-12-27 18:02:18 +0700 | refactor: modularize telemetry exporter
 2025-12-28 12:32:00 +0700 | docs: update architecture design record
+2025-12-28 14:08:54 +0700 | refactor: modularize telemetry exporter
