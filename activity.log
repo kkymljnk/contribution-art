@@ -191,3 +191,4 @@
 2025-12-28 14:40:50 +0700 | perf: optimize zero-copy ring buffer
 2025-12-28 15:42:16 +0700 | perf: batch database write operations
 2025-12-28 22:04:37 +0700 | perf: batch database write operations
+2025-12-29 10:22:17 +0700 | docs: update architecture design record
