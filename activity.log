@@ -221,3 +221,4 @@
 2026-01-03 17:43:51 +0700 | fix: address edge case in token validation
 2026-01-03 19:18:53 +0700 | chore: clean up obsolete feature flags
 2026-01-03 19:41:45 +0700 | chore: upgrade runtime dependencies
+2026-01-03 20:14:08 +0700 | feat: integrate health check endpoint
