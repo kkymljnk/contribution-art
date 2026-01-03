@@ -217,3 +217,4 @@
 2026-01-02 15:12:45 +0700 | refactor: modularize telemetry exporter
 2026-01-03 10:08:37 +0700 | chore: clean up obsolete feature flags
 2026-01-03 15:29:57 +0700 | docs: document benchmark metrics
+2026-01-03 16:55:24 +0700 | fix: resolve memory leak in connection pool
