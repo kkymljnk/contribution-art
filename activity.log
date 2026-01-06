@@ -238,3 +238,4 @@
 2026-01-06 14:39:35 +0700 | refactor: modularize telemetry exporter
 2026-01-06 15:56:29 +0700 | feat: integrate health check endpoint
 2026-01-06 19:23:03 +0700 | perf: optimize zero-copy ring buffer
+2026-01-06 19:59:05 +0700 | docs: document benchmark metrics
