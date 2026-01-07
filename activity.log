@@ -241,3 +241,4 @@
 2026-01-06 19:59:05 +0700 | docs: document benchmark metrics
 2026-01-06 20:17:01 +0700 | style: format codebase with standard linter
 2026-01-06 20:51:32 +0700 | perf: cache compiled regex patterns
+2026-01-07 09:59:01 +0700 | chore: clean up obsolete feature flags
