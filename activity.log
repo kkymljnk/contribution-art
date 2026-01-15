@@ -275,3 +275,4 @@
 2026-01-13 21:06:46 +0700 | perf: cache compiled regex patterns
 2026-01-13 21:37:43 +0700 | fix: address edge case in token validation
 2026-01-14 12:45:35 +0700 | docs: document benchmark metrics
+2026-01-15 12:01:55 +0700 | refactor: extract abstract storage interface
