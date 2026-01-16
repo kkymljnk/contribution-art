@@ -279,3 +279,4 @@
 2026-01-15 12:51:14 +0700 | chore: clean up obsolete feature flags
 2026-01-15 14:08:01 +0700 | fix: address edge case in token validation
 2026-01-15 17:02:17 +0700 | fix: address edge case in token validation
+2026-01-16 13:37:46 +0700 | docs: update architecture design record
