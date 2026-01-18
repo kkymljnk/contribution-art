@@ -287,3 +287,4 @@
 2026-01-18 09:26:59 +0700 | docs: update architecture design record
 2026-01-18 10:01:36 +0700 | fix: handle graceful shutdown signal
 2026-01-18 10:22:03 +0700 | fix: address edge case in token validation
+2026-01-18 10:46:10 +0700 | perf: batch database write operations
