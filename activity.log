@@ -296,3 +296,4 @@
 2026-01-18 20:10:20 +0700 | refactor: extract abstract storage interface
 2026-01-18 21:27:02 +0700 | feat: implement asynchronous event bus
 2026-01-19 09:28:10 +0700 | refactor: extract abstract storage interface
+2026-01-19 15:43:02 +0700 | feat: add distributed tracing middleware
