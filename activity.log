@@ -307,3 +307,4 @@
 2026-01-20 21:30:38 +0700 | feat: add rate limiting leaky bucket
 2026-01-21 21:10:17 +0700 | test: add concurrency stress tests
 2026-01-22 22:18:51 +0700 | feat: add rate limiting leaky bucket
+2026-01-23 08:35:44 +0700 | feat: implement asynchronous event bus
