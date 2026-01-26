@@ -315,3 +315,4 @@
 2026-01-26 09:22:09 +0700 | fix: address edge case in token validation
 2026-01-26 10:31:26 +0700 | refactor: modularize telemetry exporter
 2026-01-26 10:43:05 +0700 | perf: optimize zero-copy ring buffer
+2026-01-26 12:49:33 +0700 | feat: add rate limiting leaky bucket
