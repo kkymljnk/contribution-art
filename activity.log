@@ -327,3 +327,4 @@
 2026-01-27 16:18:50 +0700 | feat: implement asynchronous event bus
 2026-01-28 14:55:22 +0700 | feat: add distributed tracing middleware
 2026-01-28 19:41:32 +0700 | chore: clean up obsolete feature flags
+2026-01-29 11:54:35 +0700 | refactor: modularize telemetry exporter
