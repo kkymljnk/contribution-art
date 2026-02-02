@@ -339,3 +339,4 @@
 2026-02-02 08:47:44 +0700 | refactor: modularize telemetry exporter
 2026-02-02 13:07:03 +0700 | refactor: extract abstract storage interface
 2026-02-02 15:00:02 +0700 | feat: add distributed tracing middleware
+2026-02-02 15:17:44 +0700 | perf: optimize zero-copy ring buffer
