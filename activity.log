@@ -337,3 +337,4 @@
 2026-02-01 17:44:27 +0700 | fix: resolve memory leak in connection pool
 2026-02-01 18:35:16 +0700 | style: format codebase with standard linter
 2026-02-02 08:47:44 +0700 | refactor: modularize telemetry exporter
+2026-02-02 13:07:03 +0700 | refactor: extract abstract storage interface
