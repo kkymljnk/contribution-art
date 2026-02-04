@@ -345,3 +345,4 @@
 2026-02-03 22:16:29 +0700 | test: add concurrency stress tests
 2026-02-04 09:18:25 +0700 | docs: update architecture design record
 2026-02-04 14:39:47 +0700 | fix: address edge case in token validation
+2026-02-04 14:54:48 +0700 | feat: add rate limiting leaky bucket
