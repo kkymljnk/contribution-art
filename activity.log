@@ -349,3 +349,4 @@
 2026-02-04 18:26:23 +0700 | docs: update architecture design record
 2026-02-04 20:12:06 +0700 | test: add concurrency stress tests
 2026-02-06 09:38:55 +0700 | fix: address edge case in token validation
+2026-02-07 09:10:23 +0700 | fix: handle graceful shutdown signal
