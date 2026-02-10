@@ -372,3 +372,4 @@
 2026-02-09 22:01:53 +0700 | docs: document benchmark metrics
 2026-02-10 09:57:27 +0700 | perf: cache compiled regex patterns
 2026-02-10 10:22:03 +0700 | perf: cache compiled regex patterns
+2026-02-10 13:50:52 +0700 | fix: address edge case in token validation
