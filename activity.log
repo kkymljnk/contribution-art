@@ -371,3 +371,4 @@
 2026-02-09 21:05:55 +0700 | docs: update architecture design record
 2026-02-09 22:01:53 +0700 | docs: document benchmark metrics
 2026-02-10 09:57:27 +0700 | perf: cache compiled regex patterns
+2026-02-10 10:22:03 +0700 | perf: cache compiled regex patterns
