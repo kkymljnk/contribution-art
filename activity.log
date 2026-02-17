@@ -407,3 +407,4 @@
 2026-02-17 13:15:55 +0700 | perf: optimize zero-copy ring buffer
 2026-02-17 15:32:41 +0700 | test: add concurrency stress tests
 2026-02-17 16:37:26 +0700 | refactor: modularize telemetry exporter
+2026-02-17 17:35:05 +0700 | fix: address edge case in token validation
