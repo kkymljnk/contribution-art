@@ -410,3 +410,4 @@
 2026-02-17 17:35:05 +0700 | fix: address edge case in token validation
 2026-02-17 17:55:30 +0700 | docs: update architecture design record
 2026-02-17 18:43:29 +0700 | fix: address edge case in token validation
+2026-02-17 21:18:59 +0700 | refactor: modularize telemetry exporter
