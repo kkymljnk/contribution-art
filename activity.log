@@ -422,3 +422,4 @@
 2026-02-18 20:39:27 +0700 | feat: add distributed tracing middleware
 2026-02-18 21:25:00 +0700 | feat: add rate limiting leaky bucket
 2026-02-19 08:58:42 +0700 | docs: document benchmark metrics
+2026-02-19 15:04:11 +0700 | chore: clean up obsolete feature flags
