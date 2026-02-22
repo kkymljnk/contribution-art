@@ -425,3 +425,4 @@
 2026-02-19 15:04:11 +0700 | chore: clean up obsolete feature flags
 2026-02-20 15:12:56 +0700 | docs: document benchmark metrics
 2026-02-20 17:00:31 +0700 | test: add concurrency stress tests
+2026-02-22 09:41:48 +0700 | feat: add rate limiting leaky bucket
