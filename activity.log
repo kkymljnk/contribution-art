@@ -448,3 +448,4 @@
 2026-02-24 14:47:56 +0700 | docs: document benchmark metrics
 2026-02-24 17:56:46 +0700 | fix: handle graceful shutdown signal
 2026-02-24 21:24:46 +0700 | test: add concurrency stress tests
+2026-02-25 14:00:45 +0700 | docs: document benchmark metrics
