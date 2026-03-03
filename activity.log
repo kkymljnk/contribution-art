@@ -462,3 +462,4 @@
 2026-03-03 09:19:39 +0700 | feat: implement asynchronous event bus
 2026-03-03 09:58:43 +0700 | feat: add rate limiting leaky bucket
 2026-03-03 12:20:15 +0700 | docs: document benchmark metrics
+2026-03-03 13:19:04 +0700 | perf: cache compiled regex patterns
