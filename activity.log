@@ -479,3 +479,4 @@
 2026-03-04 21:02:08 +0700 | test: add concurrency stress tests
 2026-03-05 15:14:43 +0700 | docs: document benchmark metrics
 2026-03-05 17:52:29 +0700 | perf: optimize zero-copy ring buffer
+2026-03-05 22:20:50 +0700 | feat: integrate health check endpoint
