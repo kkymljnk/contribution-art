@@ -482,3 +482,4 @@
 2026-03-05 22:20:50 +0700 | feat: integrate health check endpoint
 2026-03-06 10:43:49 +0700 | test: add concurrency stress tests
 2026-03-06 12:54:02 +0700 | perf: optimize zero-copy ring buffer
+2026-03-06 13:00:47 +0700 | fix: resolve memory leak in connection pool
