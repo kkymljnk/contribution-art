@@ -486,3 +486,4 @@
 2026-03-06 13:22:09 +0700 | perf: cache compiled regex patterns
 2026-03-06 16:41:04 +0700 | style: format codebase with standard linter
 2026-03-06 16:59:30 +0700 | feat: support TLS 1.3 session resumption
+2026-03-09 13:01:10 +0700 | docs: update architecture design record
