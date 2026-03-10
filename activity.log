@@ -491,3 +491,4 @@
 2026-03-10 11:57:20 +0700 | docs: update architecture design record
 2026-03-10 14:11:34 +0700 | feat: add rate limiting leaky bucket
 2026-03-10 19:00:59 +0700 | perf: batch database write operations
+2026-03-10 21:37:39 +0700 | fix: address edge case in token validation
