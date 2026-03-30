@@ -545,3 +545,4 @@
 2026-03-30 14:31:48 +0700 | chore: clean up obsolete feature flags
 2026-03-30 15:12:20 +0700 | chore: clean up obsolete feature flags
 2026-03-30 16:04:58 +0700 | feat: add distributed tracing middleware
+2026-03-30 17:08:42 +0700 | fix: resolve memory leak in connection pool
