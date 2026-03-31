@@ -550,3 +550,4 @@
 2026-03-30 20:45:58 +0700 | feat: add rate limiting leaky bucket
 2026-03-30 21:01:31 +0700 | docs: update architecture design record
 2026-03-30 21:42:14 +0700 | perf: batch database write operations
+2026-03-31 11:11:24 +0700 | feat: add distributed tracing middleware
