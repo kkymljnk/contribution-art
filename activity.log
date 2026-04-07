@@ -577,3 +577,4 @@
 2026-04-06 21:07:16 +0700 | feat: add distributed tracing middleware
 2026-04-06 21:37:26 +0700 | fix: handle graceful shutdown signal
 2026-04-07 12:35:36 +0700 | chore: upgrade runtime dependencies
+2026-04-07 13:45:40 +0700 | feat: add rate limiting leaky bucket
