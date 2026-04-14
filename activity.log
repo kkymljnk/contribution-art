@@ -606,3 +606,4 @@
 2026-04-14 08:35:39 +0700 | docs: document benchmark metrics
 2026-04-14 10:19:49 +0700 | docs: update architecture design record
 2026-04-14 11:00:09 +0700 | test: increase branch coverage for auth module
+2026-04-14 17:05:59 +0700 | feat: add rate limiting leaky bucket
