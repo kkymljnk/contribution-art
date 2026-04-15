@@ -611,3 +611,4 @@
 2026-04-14 21:33:32 +0700 | chore: upgrade runtime dependencies
 2026-04-15 09:34:37 +0700 | refactor: modularize telemetry exporter
 2026-04-15 13:41:44 +0700 | chore: clean up obsolete feature flags
+2026-04-15 13:43:44 +0700 | feat: add distributed tracing middleware
