@@ -613,3 +613,4 @@
 2026-04-15 13:41:44 +0700 | chore: clean up obsolete feature flags
 2026-04-15 13:43:44 +0700 | feat: add distributed tracing middleware
 2026-04-15 14:20:48 +0700 | docs: document benchmark metrics
+2026-04-15 20:15:29 +0700 | fix: resolve memory leak in connection pool
