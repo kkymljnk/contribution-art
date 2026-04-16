@@ -616,3 +616,4 @@
 2026-04-15 20:15:29 +0700 | fix: resolve memory leak in connection pool
 2026-04-15 22:15:39 +0700 | docs: update architecture design record
 2026-04-16 09:09:41 +0700 | perf: cache compiled regex patterns
+2026-04-16 11:42:00 +0700 | fix: resolve memory leak in connection pool
