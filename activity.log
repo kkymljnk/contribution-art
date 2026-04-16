@@ -619,3 +619,4 @@
 2026-04-16 11:42:00 +0700 | fix: resolve memory leak in connection pool
 2026-04-16 11:53:30 +0700 | feat: implement asynchronous event bus
 2026-04-16 15:43:37 +0700 | perf: cache compiled regex patterns
+2026-04-16 16:06:26 +0700 | chore: clean up obsolete feature flags
