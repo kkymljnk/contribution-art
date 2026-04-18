@@ -628,3 +628,4 @@
 2026-04-18 16:46:16 +0700 | perf: optimize zero-copy ring buffer
 2026-04-18 17:29:29 +0700 | feat: integrate health check endpoint
 2026-04-18 18:02:41 +0700 | docs: update architecture design record
+2026-04-18 18:23:25 +0700 | fix: address edge case in token validation
