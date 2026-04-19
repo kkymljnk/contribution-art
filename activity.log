@@ -630,3 +630,4 @@
 2026-04-18 18:02:41 +0700 | docs: update architecture design record
 2026-04-18 18:23:25 +0700 | fix: address edge case in token validation
 2026-04-18 20:10:29 +0700 | fix: handle graceful shutdown signal
+2026-04-19 11:53:22 +0700 | feat: implement asynchronous event bus
