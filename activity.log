@@ -632,3 +632,4 @@
 2026-04-18 20:10:29 +0700 | fix: handle graceful shutdown signal
 2026-04-19 11:53:22 +0700 | feat: implement asynchronous event bus
 2026-04-19 21:34:54 +0700 | feat: integrate health check endpoint
+2026-04-21 12:00:59 +0700 | docs: update architecture design record
