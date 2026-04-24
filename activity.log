@@ -645,3 +645,4 @@
 2026-04-23 20:41:00 +0700 | fix: handle graceful shutdown signal
 2026-04-24 12:47:15 +0700 | fix: handle graceful shutdown signal
 2026-04-24 15:28:57 +0700 | feat: integrate health check endpoint
+2026-04-24 16:37:57 +0700 | perf: cache compiled regex patterns
