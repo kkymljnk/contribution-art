@@ -649,3 +649,4 @@
 2026-04-24 22:13:18 +0700 | chore: clean up obsolete feature flags
 2026-04-27 21:39:34 +0700 | chore: clean up obsolete feature flags
 2026-04-28 08:42:29 +0700 | fix: resolve memory leak in connection pool
+2026-04-28 12:48:06 +0700 | perf: optimize zero-copy ring buffer
