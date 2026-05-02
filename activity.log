@@ -663,3 +663,4 @@
 2026-05-01 21:18:28 +0700 | feat: add rate limiting leaky bucket
 2026-05-02 11:17:19 +0700 | refactor: extract abstract storage interface
 2026-05-02 16:46:57 +0700 | test: increase branch coverage for auth module
+2026-05-02 19:31:37 +0700 | docs: document benchmark metrics
