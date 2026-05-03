@@ -665,3 +665,4 @@
 2026-05-02 16:46:57 +0700 | test: increase branch coverage for auth module
 2026-05-02 19:31:37 +0700 | docs: document benchmark metrics
 2026-05-02 22:06:43 +0700 | feat: add rate limiting leaky bucket
+2026-05-03 12:28:33 +0700 | feat: add distributed tracing middleware
