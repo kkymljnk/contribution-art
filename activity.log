@@ -703,3 +703,4 @@
 2026-05-12 17:05:37 +0700 | refactor: modularize telemetry exporter
 2026-05-12 20:10:42 +0700 | docs: document benchmark metrics
 2026-05-12 21:46:34 +0700 | test: add concurrency stress tests
+2026-05-12 22:26:29 +0700 | refactor: extract abstract storage interface
