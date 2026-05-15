@@ -714,3 +714,4 @@
 2026-05-15 18:11:00 +0700 | feat: add distributed tracing middleware
 2026-05-15 18:24:40 +0700 | feat: add distributed tracing middleware
 2026-05-15 20:45:38 +0700 | fix: address edge case in token validation
+2026-05-15 21:35:26 +0700 | refactor: extract abstract storage interface
