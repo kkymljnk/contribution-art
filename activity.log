@@ -732,3 +732,4 @@
 2026-05-21 12:45:57 +0700 | perf: cache compiled regex patterns
 2026-05-21 16:29:27 +0700 | feat: add distributed tracing middleware
 2026-05-21 18:19:33 +0700 | chore: clean up obsolete feature flags
+2026-05-21 22:13:59 +0700 | feat: integrate health check endpoint
