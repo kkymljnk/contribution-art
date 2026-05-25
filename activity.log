@@ -743,3 +743,4 @@
 2026-05-23 16:01:43 +0700 | docs: update architecture design record
 2026-05-25 16:16:37 +0700 | feat: add rate limiting leaky bucket
 2026-05-25 18:37:08 +0700 | fix: resolve memory leak in connection pool
+2026-05-25 19:53:45 +0700 | refactor: extract abstract storage interface
