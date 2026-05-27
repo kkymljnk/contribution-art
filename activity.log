@@ -749,3 +749,4 @@
 2026-05-26 18:02:51 +0700 | test: increase branch coverage for auth module
 2026-05-26 21:10:33 +0700 | test: add concurrency stress tests
 2026-05-27 11:50:50 +0700 | docs: document benchmark metrics
+2026-05-27 13:57:33 +0700 | feat: add rate limiting leaky bucket
