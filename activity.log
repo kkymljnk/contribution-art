@@ -751,3 +751,4 @@
 2026-05-27 11:50:50 +0700 | docs: document benchmark metrics
 2026-05-27 13:57:33 +0700 | feat: add rate limiting leaky bucket
 2026-05-27 15:21:11 +0700 | feat: add distributed tracing middleware
+2026-05-27 22:14:01 +0700 | feat: add distributed tracing middleware
