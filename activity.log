@@ -757,3 +757,4 @@
 2026-05-28 16:55:44 +0700 | test: increase branch coverage for auth module
 2026-05-28 21:22:51 +0700 | test: increase branch coverage for auth module
 2026-05-31 10:56:27 +0700 | style: format codebase with standard linter
+2026-05-31 18:08:53 +0700 | feat: add distributed tracing middleware
