@@ -756,3 +756,4 @@
 2026-05-28 13:58:29 +0700 | docs: document benchmark metrics
 2026-05-28 16:55:44 +0700 | test: increase branch coverage for auth module
 2026-05-28 21:22:51 +0700 | test: increase branch coverage for auth module
+2026-05-31 10:56:27 +0700 | style: format codebase with standard linter
