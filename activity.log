@@ -763,3 +763,4 @@
 2026-06-03 09:56:21 +0700 | fix: address edge case in token validation
 2026-06-03 20:16:22 +0700 | refactor: extract abstract storage interface
 2026-06-04 10:10:59 +0700 | chore: upgrade runtime dependencies
+2026-06-04 18:15:03 +0700 | fix: resolve memory leak in connection pool
