@@ -782,3 +782,4 @@
 2026-06-10 15:43:13 +0700 | docs: document benchmark metrics
 2026-06-10 18:33:01 +0700 | refactor: extract abstract storage interface
 2026-06-10 21:18:42 +0700 | perf: cache compiled regex patterns
+2026-06-11 10:17:42 +0700 | feat: add rate limiting leaky bucket
