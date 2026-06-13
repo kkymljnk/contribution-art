@@ -796,3 +796,4 @@
 2026-06-12 21:59:38 +0700 | perf: cache compiled regex patterns
 2026-06-13 11:16:28 +0700 | feat: add distributed tracing middleware
 2026-06-13 12:04:17 +0700 | feat: add rate limiting leaky bucket
+2026-06-13 12:41:14 +0700 | docs: document benchmark metrics
