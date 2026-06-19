@@ -816,3 +816,4 @@
 2026-06-18 11:14:57 +0700 | fix: address edge case in token validation
 2026-06-18 21:22:25 +0700 | refactor: extract abstract storage interface
 2026-06-19 09:36:01 +0700 | feat: add rate limiting leaky bucket
+2026-06-19 17:17:47 +0700 | feat: implement asynchronous event bus
