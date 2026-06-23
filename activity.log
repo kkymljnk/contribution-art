@@ -835,3 +835,4 @@
 2026-06-22 18:05:01 +0700 | refactor: extract abstract storage interface
 2026-06-22 19:46:57 +0700 | style: format codebase with standard linter
 2026-06-23 16:51:20 +0700 | feat: add distributed tracing middleware
+2026-06-23 18:47:07 +0700 | feat: add distributed tracing middleware
