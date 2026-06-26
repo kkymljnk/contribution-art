@@ -839,3 +839,4 @@
 2026-06-25 13:57:39 +0700 | refactor: modularize telemetry exporter
 2026-06-25 20:57:09 +0700 | fix: resolve memory leak in connection pool
 2026-06-26 10:12:07 +0700 | fix: resolve memory leak in connection pool
+2026-06-26 15:21:58 +0700 | feat: implement asynchronous event bus
