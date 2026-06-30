@@ -849,3 +849,4 @@
 2026-06-29 09:16:28 +0700 | chore: upgrade runtime dependencies
 2026-06-29 12:40:57 +0700 | chore: clean up obsolete feature flags
 2026-06-29 18:06:53 +0700 | feat: add rate limiting leaky bucket
+2026-06-30 09:20:51 +0700 | fix: handle graceful shutdown signal
