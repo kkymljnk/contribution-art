@@ -874,3 +874,4 @@
 2026-07-07 09:02:21 +0700 | fix: handle graceful shutdown signal
 2026-07-07 14:26:29 +0700 | fix: address edge case in token validation
 2026-07-07 15:43:18 +0700 | feat: add rate limiting leaky bucket
+2026-07-07 20:02:37 +0700 | feat: add distributed tracing middleware
