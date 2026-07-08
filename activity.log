@@ -876,3 +876,4 @@
 2026-07-07 15:43:18 +0700 | feat: add rate limiting leaky bucket
 2026-07-07 20:02:37 +0700 | feat: add distributed tracing middleware
 2026-07-08 11:52:52 +0700 | chore: clean up obsolete feature flags
+2026-07-08 14:58:38 +0700 | style: format codebase with standard linter
