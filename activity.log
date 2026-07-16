@@ -909,3 +909,4 @@
 2026-07-16 11:35:13 +0700 | fix: handle graceful shutdown signal
 2026-07-16 13:23:10 +0700 | test: increase branch coverage for auth module
 2026-07-16 13:23:43 +0700 | perf: cache compiled regex patterns
+2026-07-16 13:58:54 +0700 | feat: add rate limiting leaky bucket
