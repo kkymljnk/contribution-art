@@ -910,3 +910,4 @@
 2026-07-16 13:23:10 +0700 | test: increase branch coverage for auth module
 2026-07-16 13:23:43 +0700 | perf: cache compiled regex patterns
 2026-07-16 13:58:54 +0700 | feat: add rate limiting leaky bucket
+2026-07-16 15:25:51 +0700 | refactor: modularize telemetry exporter
