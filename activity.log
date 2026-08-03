@@ -965,3 +965,4 @@
 2026-08-03 19:39:12 +0700 | feat: implement asynchronous event bus
 2026-08-03 20:14:32 +0700 | perf: optimize zero-copy ring buffer
 2026-08-03 20:16:24 +0700 | fix: handle graceful shutdown signal
+2026-08-03 20:16:41 +0700 | feat: add distributed tracing middleware
