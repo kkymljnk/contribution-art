@@ -1030,3 +1030,4 @@
 2026-08-15 11:00:35 +0700 | docs: update architecture design record
 2026-08-15 11:52:53 +0700 | docs: document benchmark metrics
 2026-08-15 15:29:06 +0700 | docs: update architecture design record
+2026-08-15 15:34:18 +0700 | feat: add rate limiting leaky bucket
