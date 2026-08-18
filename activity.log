@@ -1042,3 +1042,4 @@
 2026-08-17 08:40:28 +0700 | chore: upgrade runtime dependencies
 2026-08-17 10:59:07 +0700 | style: format codebase with standard linter
 2026-08-17 17:19:19 +0700 | docs: document benchmark metrics
+2026-08-18 17:42:04 +0700 | feat: add rate limiting leaky bucket
