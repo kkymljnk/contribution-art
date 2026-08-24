@@ -1065,3 +1065,4 @@
 2026-08-24 18:26:45 +0700 | perf: optimize zero-copy ring buffer
 2026-08-24 21:35:19 +0700 | feat: add distributed tracing middleware
 2026-08-24 22:16:36 +0700 | perf: cache compiled regex patterns
+2026-08-24 22:20:07 +0700 | fix: resolve memory leak in connection pool
