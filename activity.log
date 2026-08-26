@@ -1075,3 +1075,4 @@
 2026-08-25 16:29:34 +0700 | test: add concurrency stress tests
 2026-08-25 16:41:13 +0700 | chore: upgrade runtime dependencies
 2026-08-26 09:34:50 +0700 | refactor: extract abstract storage interface
+2026-08-26 12:16:02 +0700 | docs: document benchmark metrics
