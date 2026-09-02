@@ -1092,3 +1092,4 @@
 2026-09-01 20:48:37 +0700 | style: format codebase with standard linter
 2026-09-01 22:21:43 +0700 | feat: add rate limiting leaky bucket
 2026-09-02 11:05:17 +0700 | style: format codebase with standard linter
+2026-09-02 13:23:30 +0700 | fix: address edge case in token validation
