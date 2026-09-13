@@ -1120,3 +1120,4 @@
 2026-09-13 11:22:33 +0700 | test: add concurrency stress tests
 2026-09-13 16:17:16 +0700 | perf: cache compiled regex patterns
 2026-09-13 16:32:00 +0700 | docs: update architecture design record
+2026-09-13 16:48:38 +0700 | fix: handle graceful shutdown signal
