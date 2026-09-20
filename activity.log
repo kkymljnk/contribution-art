@@ -1140,3 +1140,4 @@
 2026-09-18 20:52:43 +0700 | test: add concurrency stress tests
 2026-09-20 09:47:21 +0700 | perf: optimize zero-copy ring buffer
 2026-09-20 10:07:34 +0700 | perf: optimize zero-copy ring buffer
+2026-09-20 12:40:04 +0700 | feat: integrate health check endpoint
