@@ -1171,3 +1171,4 @@
 2026-09-25 21:37:43 +0700 | chore: upgrade runtime dependencies
 2026-09-27 22:06:50 +0700 | style: format codebase with standard linter
 2026-09-28 09:29:36 +0700 | style: format codebase with standard linter
+2026-09-28 12:51:25 +0700 | perf: optimize zero-copy ring buffer
