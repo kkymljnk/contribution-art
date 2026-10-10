@@ -1201,3 +1201,4 @@
 2026-10-09 14:26:53 +0700 | refactor: modularize telemetry exporter
 2026-10-09 15:36:46 +0700 | perf: cache compiled regex patterns
 2026-10-09 18:15:52 +0700 | test: increase branch coverage for auth module
+2026-10-10 21:47:18 +0700 | feat: add distributed tracing middleware
