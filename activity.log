@@ -1203,3 +1203,4 @@
 2026-10-09 18:15:52 +0700 | test: increase branch coverage for auth module
 2026-10-10 21:47:18 +0700 | feat: add distributed tracing middleware
 2026-10-11 09:33:14 +0700 | feat: add distributed tracing middleware
+2026-10-13 10:04:10 +0700 | feat: support TLS 1.3 session resumption
