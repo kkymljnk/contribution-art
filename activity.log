@@ -1212,3 +1212,4 @@
 2026-10-14 20:37:32 +0700 | test: add concurrency stress tests
 2026-10-14 21:58:59 +0700 | feat: implement asynchronous event bus
 2026-10-14 22:00:07 +0700 | docs: update architecture design record
+2026-10-15 10:48:38 +0700 | perf: optimize zero-copy ring buffer
