@@ -1223,3 +1223,4 @@
 2026-10-15 18:01:15 +0700 | chore: clean up obsolete feature flags
 2026-10-15 21:37:16 +0700 | refactor: modularize telemetry exporter
 2026-10-15 22:08:57 +0700 | feat: add rate limiting leaky bucket
+2026-10-16 16:47:11 +0700 | refactor: extract abstract storage interface
