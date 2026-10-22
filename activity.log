@@ -1239,3 +1239,4 @@
 2026-10-21 11:45:28 +0700 | feat: add distributed tracing middleware
 2026-10-21 15:28:18 +0700 | feat: integrate health check endpoint
 2026-10-22 13:01:10 +0700 | feat: integrate health check endpoint
+2026-10-22 16:04:39 +0700 | fix: handle graceful shutdown signal
