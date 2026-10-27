@@ -1250,3 +1250,4 @@
 2026-10-26 17:53:21 +0700 | perf: cache compiled regex patterns
 2026-10-27 10:04:21 +0700 | fix: address edge case in token validation
 2026-10-27 14:27:29 +0700 | feat: implement asynchronous event bus
+2026-10-27 18:34:07 +0700 | refactor: extract abstract storage interface
