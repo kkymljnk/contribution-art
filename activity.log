@@ -1268,3 +1268,4 @@
 2026-10-29 20:27:57 +0700 | perf: batch database write operations
 2026-10-29 22:18:57 +0700 | feat: add distributed tracing middleware
 2026-10-30 16:08:33 +0700 | feat: add rate limiting leaky bucket
+2026-10-31 09:35:25 +0700 | fix: handle graceful shutdown signal
