@@ -1272,3 +1272,4 @@
 2026-10-31 11:05:30 +0700 | refactor: modularize telemetry exporter
 2026-10-31 21:27:18 +0700 | fix: resolve memory leak in connection pool
 2026-11-02 12:42:49 +0700 | test: increase branch coverage for auth module
+2026-11-02 17:57:42 +0700 | refactor: extract abstract storage interface
