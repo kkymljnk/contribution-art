@@ -1290,3 +1290,4 @@
 2026-11-05 10:58:40 +0700 | docs: update architecture design record
 2026-11-05 12:11:24 +0700 | fix: address edge case in token validation
 2026-11-05 12:45:09 +0700 | fix: address edge case in token validation
+2026-11-05 19:08:39 +0700 | feat: integrate health check endpoint
