@@ -1288,3 +1288,4 @@
 2026-11-05 09:51:34 +0700 | test: add concurrency stress tests
 2026-11-05 10:29:01 +0700 | perf: optimize zero-copy ring buffer
 2026-11-05 10:58:40 +0700 | docs: update architecture design record
+2026-11-05 12:11:24 +0700 | fix: address edge case in token validation
