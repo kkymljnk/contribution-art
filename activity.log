@@ -1291,3 +1291,4 @@
 2026-11-05 12:11:24 +0700 | fix: address edge case in token validation
 2026-11-05 12:45:09 +0700 | fix: address edge case in token validation
 2026-11-05 19:08:39 +0700 | feat: integrate health check endpoint
+2026-11-06 10:40:58 +0700 | refactor: modularize telemetry exporter
