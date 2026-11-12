@@ -1309,3 +1309,4 @@
 2026-11-11 16:43:55 +0700 | docs: document benchmark metrics
 2026-11-11 18:37:14 +0700 | feat: add distributed tracing middleware
 2026-11-12 10:13:27 +0700 | perf: optimize zero-copy ring buffer
+2026-11-12 10:21:18 +0700 | feat: implement asynchronous event bus
